@@ -28,7 +28,7 @@ twitter_username: ivanrulik
 github_username:  ivanrulik
 
 # Build settings
-theme: cayman
+theme: minima
 plugins:
   - jekyll-feed
 

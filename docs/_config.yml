@@ -29,6 +29,7 @@ github_username:  ivanrulik
 
 # Build settings
 theme: minima
+# remote_theme: mmistakes/minimal-jekyll
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
